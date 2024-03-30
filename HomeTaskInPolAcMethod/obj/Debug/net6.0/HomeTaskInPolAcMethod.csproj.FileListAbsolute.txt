@@ -1,0 +1,14 @@
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\bin\Debug\net6.0\HomeTaskInPolAcMethod.exe
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\bin\Debug\net6.0\HomeTaskInPolAcMethod.deps.json
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\bin\Debug\net6.0\HomeTaskInPolAcMethod.runtimeconfig.json
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\bin\Debug\net6.0\HomeTaskInPolAcMethod.dll
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\bin\Debug\net6.0\HomeTaskInPolAcMethod.pdb
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\obj\Debug\net6.0\HomeTaskInPolAcMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\obj\Debug\net6.0\HomeTaskInPolAcMethod.AssemblyInfoInputs.cache
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\obj\Debug\net6.0\HomeTaskInPolAcMethod.AssemblyInfo.cs
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\obj\Debug\net6.0\HomeTaskInPolAcMethod.csproj.CoreCompileInputs.cache
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\obj\Debug\net6.0\HomeTaskInPolAcMethod.dll
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\obj\Debug\net6.0\refint\HomeTaskInPolAcMethod.dll
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\obj\Debug\net6.0\HomeTaskInPolAcMethod.pdb
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\obj\Debug\net6.0\HomeTaskInPolAcMethod.genruntimeconfig.cache
+D:\Praktikant\GarageTask\HomeTaskInPolAcMethod\HomeTaskInPolAcMethod\obj\Debug\net6.0\ref\HomeTaskInPolAcMethod.dll
